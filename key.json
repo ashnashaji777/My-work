@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "health-chatboat-6dc56",
+    "private_key_id": "6ff1a5df7e65aacd6de5d7496eca38367d168a63",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCNzi1HB3Ksay9\nOjjTfHP4LTI38+X5rGkSqDQvcnQC9p8WSAbu1g6Q+xwuGfBdkaFOkQ3krlWdu6pa\nr8QgMwSmWbwganmEAY8GbfwVS5yGAUkeCPmqfdhiw/of/w3vkE/nau/boTPvWlAF\n/zeg+jSsGIujFXq18wSnOIAw1jH04BiTZmm7bJS4X9C+sWADX7yz6aBwBmh4OzJ1\nDyHUPE/9SLyDl9gm0uEigngc60dkmls+m0v3DfyvghIOkwIvvFdNKh8fJLFMFfWV\nyha+a0NANWkIdPoiRtNu4GIkebpmnV9z1U0iAhURcl4Do7J2adccoP8thSIoqYQl\n13cdrkrtAgMBAAECggEAIIuc7NqUkngiLIaSabw3+c1nFjHAps1xwR7fOdk54BpA\nT/1LbiAASmLOFtqhaSijiZUsqRbewYMmebJtEQFDpPWyHROCn/Cb7VWmcdIdHWaf\nQFF8NwoGJgzVwCFfTjcWcL7+iUUy/QfbE5owUgFDrNgjJDXP/agG7le9QZHPRsuw\n72Csa+KNpCfy4jZZf+uToW/RiTC1KSOdwqSCqY2FKd5/zAcvHLT1Uw4qTaEumudc\nkcBM24cwGxYZlKfNzyHRoaKSOX9iJZRNt9UraOt6IhWah0c2L3vF9oq7zfIW+Vq4\nuTzrfx8LLT7Ac8q0aioaiaJB/SsBgorkrMPWkdPc4QKBgQDsPqaB2uLpwk5qQ5Su\nwUgA+T5+XXdf73W9FgVV7b2v8T5vg33+p+UDOt62RHngv7werW0+ovXA2lHLKfW+\nLZj3mYNE031jnKwEDwZaLq0tLqP0gh8pAOnrJjZkLC5TM0neBiEKYT1czOyUe+XH\nMZ9ggwsWu9hlYHRoB+FwVoNgoQKBgQDSdNhu1LnQkUuWfBvml36DZMJou1TiIlDf\nyGIPT/m6Vn1bVG00QFhXhrcsFNEtfCzDkPqdgcgo2gzA/5BSy1+Vib8oMnPZLNeV\nIfkp/uIPBAxqIw0GgClFNv78MzDKWLSh0zSni8P+/YbcWLQqJsLKGoyKShsGsrG7\nxwxSIu+qzQKBgQCDOjnbn+6z0o8kT+3jNNH+WHTyVJDe5XENW5ITLUBU3zjDUNNI\nBZMcvDLCJD9fLKIemE86n+LLAXq109UBkuqJfuh/7sqT7o9OodnxdkQT+Phx9WXB\nrRRC3rMP6crBxJefkOABmAox5lL0F+6HO3VAcwpR0n5dsbp3nwkHEcdggQKBgHle\nn07TaVGp6UCg1GpYZcKawi8qEdrT1XYpFrwj8C4RIPwhpVTj4s6fR1Wpr7SejyY9\nnvpk1S0SCxbmi7HjzXzs0ov5BKxzWuSLkikw7+ee+xXenu1nzeU3wTdqwjF/lLRa\nnFwfk2mjhjnfAg/pCJ8LTo+WCx4CwdM8CJP5x+PlAoGBANrHP5pnihOXkpEZu1Zn\nHbMxTx/cyibIbkxStGdc5P4BudPmqmJLE/X886Lg2RetY4PVDzPGO94PqvdUBuPw\n2MWfwiH1hyjCQjy4Ww2OlEysLzw0LrCE2EhMpRyxhOqsBhQEq7/ukOMyyjivLQL8\n5WUhVfZVIYLHqlT5/x+rLs6u\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-oqa0b@health-chatboat-6dc56.iam.gserviceaccount.com",
+    "client_id": "105440645699277295698",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-oqa0b%40health-chatboat-6dc56.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
